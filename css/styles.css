@@ -877,12 +877,12 @@ input[type='checkbox'] {
 	margin-bottom: 1.375rem;
 }
 
-.basic-2 .list-unstyled .fas {
+.basic-1 .list-unstyled .fas {
 	color: #00bfd8;
 	line-height: 1.375rem;
 }
 
-.basic-2 .list-unstyled .media-body {
+.basic-1 .list-unstyled .media-body {
 	margin-left: 0.625rem;
 }
 
@@ -1011,11 +1011,11 @@ input[type='checkbox'] {
 }
 
 .cards-2 .card .card-body {
-	padding: 2.5rem 2.75rem 1.875rem 2.5rem;
+	padding: 2rem;
 }
 
 .cards-2 .card .card-title {
-	margin-bottom: 0.625rem;
+	margin-bottom: 1.8rem;
 	color: #393939;
 	font-weight: 700;
 	font-size: 1.75rem;
@@ -1462,6 +1462,7 @@ input[type='checkbox'] {
 .footer {
 	padding-top: 4.625rem;
 	padding-bottom: 0.5rem;
+	text-align: center;
 }
 
 .footer .footer-col {
@@ -2150,7 +2151,7 @@ a:hover.back-to-top {
 
 	/* Footer */
 	.footer .footer-col {
-		width: 90%;
+		width: 100%;
 	}
 
 	.footer .footer-col.middle {
